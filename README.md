@@ -138,9 +138,7 @@ Any subsequent run where the model performance does not improve, will result in 
 ![DevOps pipeline](/docs/images/pipeline_canceled.png)
 
 ## References
-
-* [Create an Azure DevOps agent with Terraform](https://melcher.dev/2019/02/create-an-azure-devops-build/release-agent-with-terraform-ubuntu-edition/)
-* [MLOpsPython: MLOps using Azure ML Services and Azure DevOps](https://github.com/nholuongut/MLOpsPython)
+* [MLOpsPython: MLOps using Azure ML Services and Azure DevOps](https://github.com/nholuongut/MLOps-Python)
 
 ![](https://i.imgur.com/waxVImv.png)
 # I'm are always open to your feedback🚀
